@@ -101,14 +101,14 @@ export const dictionaries: Record<Locale, Dictionary> = {
     hero: {
       headline: "Senior iOS Developer building high-quality mobile products",
       subtitle:
-        "I create native iOS applications with Swift and SwiftUI, from MVP to scalable production solutions.",
+        "I create native iOS apps with Swift, UIKit, and SwiftUI — from MVP to scalable production solutions.",
       viewProjects: "View Projects",
       contactMe: "Contact Me",
       downloadResume: "Download Resume",
       age: "24 years old",
       experience: "7+ years experience",
       apps: "15+ App Store apps",
-      stack: "Swift · SwiftUI · Product",
+      stack: "Swift · UIKit · SwiftUI",
     },
     about: {
       eyebrow: "About",
@@ -268,14 +268,14 @@ export const dictionaries: Record<Locale, Dictionary> = {
       headline:
         "Senior iOS Developer, создающий качественные мобильные продукты",
       subtitle:
-        "Разрабатываю нативные iOS-приложения на Swift и SwiftUI — от MVP до масштабируемых production-решений.",
+        "Разрабатываю нативные iOS-приложения на Swift | UIKit | SwiftUI — от MVP до масштабируемых production-решений.",
       viewProjects: "Смотреть проекты",
       contactMe: "Связаться",
       downloadResume: "Скачать резюме",
       age: "24 года",
       experience: "7+ лет опыта",
       apps: "15+ приложений в App Store",
-      stack: "Swift · SwiftUI · Product",
+      stack: "Swift · UIKit · SwiftUI",
     },
     about: {
       eyebrow: "Обо мне",
